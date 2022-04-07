@@ -1,6 +1,6 @@
 # SurveyJS-Note
 List out all investigation topics that are not official documentation on SurveyJS. 
-The SurveyJS support team is great to support but no fully anwser on the question that we ask.
+The SurveyJS support team is great to support but no fully anwser on the business requirement questions that we must do ourself.
 
 ## PDFExport: How to render the invisible question which is hidden by logic?
 ####
@@ -233,3 +233,5 @@ surveyPDF
             }
 
 ```
+
+## End of note when working with SurveyJS https://surveyjs.io/
