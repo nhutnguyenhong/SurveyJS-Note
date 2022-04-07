@@ -1,5 +1,5 @@
 # SurveyJS-Note
-List out all investigation topic that are not official documentation on SurveyJS. 
+List out all investigation topics that are not official documentation on SurveyJS. 
 The SurveyJS support team is great to support but no fully anwser on the question that we ask.
 
 ## PDFExport: How to render the invisible question which is hidden by logic?
